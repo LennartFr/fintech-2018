@@ -1,6 +1,6 @@
-# fintech-2018
+<img src="https://farm3.staticflickr.com/2304/2046126318_7954759b99_o.jpg" width="3797" height="1873" alt="Wall Street subway station">
 
-## Introduction: the IBM Fintech story
+# Introduction: the IBM Fintech story
 [Rob Seidman Fintech Patterns](https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/11/fintech-code-tech-talk-technical.pdf)
 
 [IBM Cloud for Financial Services](https://developer.ibm.com/finance/)
