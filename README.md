@@ -1,4 +1,4 @@
-<img src="https://farm3.staticflickr.com/2304/2046126318_7954759b99_o.jpg" width="3797" height="1873" alt="Wall Street subway station">
+<img src="https://farm3.staticflickr.com/2304/2046126318_7954759b99_o.jpg" width="640" height="316" alt="Wall Street subway station">
 
 # Introduction: the IBM Fintech story
 [Rob Seidman Fintech Patterns](https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/11/fintech-code-tech-talk-technical.pdf)
