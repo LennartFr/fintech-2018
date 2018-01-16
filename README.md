@@ -1,4 +1,4 @@
-<a href="https://ibm.biz/fintech2018">ibm.biz/fintech2018</a>
+# <a href="https://ibm.biz/fintech2018">ibm.biz/fintech2018</a>
 <hr size="20">
 
 # Introduction: the IBM Fintech story
