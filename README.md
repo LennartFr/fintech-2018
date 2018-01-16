@@ -1,4 +1,5 @@
-
+<a href="https://ibm.biz/fintech2018">ibm.biz/fintech2018</a>
+<hr size="20">
 
 # Introduction: the IBM Fintech story
 [Rob Seidman Fintech Patterns](https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/11/fintech-code-tech-talk-technical.pdf)
